@@ -11,6 +11,9 @@ public class EurekaServerApplication {
 		SpringApplication.run(EurekaServerApplication.class, args);
 
 		System.out.println("first commit the code");
+
+                                 System.out.println("second commit the code");
+                      
 		
 		
 
